@@ -1,0 +1,3 @@
+D:/studing/course2/osi/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+D:/studing/course2/osi/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/studing/course2/osi/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
